@@ -1,0 +1,56 @@
+body{
+    color: white;
+}
+
+footer{
+    background-color: rgb(58, 86, 109);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center; 
+    margin: -10px;
+}
+.ikons{
+    margin: 16px;
+}
+
+.kontakt{
+    font-size: 18px;
+}
+
+.carka{
+    margin-top: -47px;
+}
+
+.info{
+    margin: -15px;
+}
+
+.oteviracidoba{
+    font-size: 18px;
+}
+
+.carka2{
+    margin-top: -47px;
+}
+
+svg{
+    margin: 0 12px;
+}
+
+svg:hover{
+    fill: red;
+    transform: scale(1);
+}
+
+
+.tyden{
+    margin-top: -17px;
+}
+
+.column{
+    margin-top: -15px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2px;  
+}
